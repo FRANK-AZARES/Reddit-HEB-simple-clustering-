@@ -4,6 +4,8 @@ Using Reddit’s public JSON endpoints to perform a simple, lightweight data acc
 ## Overview
 This project analyzes Reddit discussions related to HEB using NLP techniques.
 
+## NOTE: The filter text document contains profane words. The intent here is to create a list of words to exclude. Instead of displaying these words directly in the code, they are stored in the text file. The code calls the text file directly, not the words.
+
 ## Project Workflow
 
 ### 1. Data Collection
