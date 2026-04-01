@@ -1,5 +1,5 @@
 # Reddit-HEB-simple-clustering-
-Using Reddit’s public JSON endpoints to perfrom a simple lightweight data access without using API authentication, performed a simple, unsupervised, word clustering using TD IDF on a random sample of pulled posts and commets from r/HEB
+Using Reddit’s public JSON endpoints to perfrom a simple lightweight data access without using API authentication, performed a simple, unsupervised, word clustering using Term Frequency-Inverse Document Frequency (TD IDF) on a random sample of pulled posts and commets from r/HEB
 
 ## Overview
 This project analyzes Reddit discussions related to HEB using NLP techniques.
